@@ -1,5 +1,4 @@
-{
-   "Channels":[
+[
       {
          "channel_id":1,
          "channel_name":"MRTV 4",
@@ -911,4 +910,3 @@
             "channel_url" : "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv"
 		}
    ]
-}
