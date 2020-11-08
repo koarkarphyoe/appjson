@@ -2,11 +2,13 @@
   {
     "channel_id": 1,
     "channel_name": "MRTV 4",
+    "channel_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewburma.wordpress.com%2Fentertainment%2Fburmese-movies%2Fmrtv4%2F&psig=AOvVaw203XxDvWZlDRAwJUj7lGUR&ust=1604921113494000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCkjJvr8uwCFQAAAAAdAAAAABAD"
     "channel_url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
   },
   {
     "channel_id":2,
     "channel_name":"Channel 7",
+    "channel_logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpnghut.com%2Fpng%2FGgDAjLLTWf%2Fburma-television-channel-mrtv-4-myawaddy-tv-orange-transparent-png&psig=AOvVaw1Qi7R6lcEOPyTrFYeHyxn9&ust=1604921162929000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKir17Hr8uwCFQAAAAAdAAAAABAD"
     "channel_url":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
   }
 ]
