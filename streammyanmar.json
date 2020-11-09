@@ -634,7 +634,7 @@
          "channel_name":"Mizzima TV",
          "channel_description":"",
          "channel_logo":"https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1412501099/pa5y7i8lams4w5yywz3z.png",
-         "channel_url":"http://live.sky-cdn.com/myanmar/mizzima.stream/playlist.m3u8"
+         "channel_url":"http://220.158.149.28:8180/TV00000000000000000170@HHZT?"
       },
       {
          "channel_id":92,
@@ -889,24 +889,31 @@
             "channel_url" : "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv"
 		},
 	{
-        	"channel_id": 107,
+        	"channel_id": 128,
             "channel_name": "Xiamens TV",
             "channel_description": "",
           "channel_logo": "https://www.tvchinese.net/uploads/tv/dongfang.jpg",
             "channel_url" : "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv"
 		},
 	{
-        	"channel_id": 107,
+        	"channel_id": 129,
             "channel_name": "Tianjin TV",
             "channel_description": "",
           "channel_logo": "https://www.tvchinese.net/uploads/tv/dongfang.jpg",
             "channel_url" : "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv"
 		},
 	{
-        	"channel_id": 107,
+        	"channel_id": 130,
             "channel_name": "Anhui TV",
             "channel_description": "",
           "channel_logo": "https://www.tvchinese.net/uploads/tv/dongfang.jpg",
             "channel_url" : "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv"
+		},
+	{
+        	"channel_id": 131,
+            "channel_name": "5 Plus",
+            "channel_description": "",
+          "channel_logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-120x120-a44.jpg",
+            "channel_url" : "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
 		}
    ]
