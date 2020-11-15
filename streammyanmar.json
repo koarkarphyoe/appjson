@@ -920,7 +920,7 @@
          "channel_id":132,
          "channel_name":"Cherry FM",
          "channel_logo":"https://dbs.radioline.fr/pictures/radio_eaca8df4c7b1a53d8387d0cd86e213f6/logo200.jpg?size=200",
-         "channel_url":"http://159.65.15.33:8000/"
+         "channel_url":"http://159.65.15.33:8000/;stream.mp3"
       }
 
    ]
