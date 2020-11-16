@@ -1,0 +1,14 @@
+
+[
+      {
+         "id":1,
+         "name":"Cherry FM",
+         "logo":"https://dbs.radioline.fr/pictures/radio_eaca8df4c7b1a53d8387d0cd86e213f6/logo200.jpg?size=200",
+         "url":"http://159.65.15.33:8000/;stream.mp3"
+      },{
+         "id":2,
+         "name":"Bagan FM",
+         "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqwxm_Df9zhS_QNFnnmOjqYyTeiGAeaMS8IQ&usqp=CAU",
+         "url":"http://159.65.15.33:8000/;stream.mp3"
+      }
+]
