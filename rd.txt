@@ -7,8 +7,27 @@
          "url":"http://159.65.15.33:8000/;stream.mp3"
       },{
          "id":2,
-         "name":"Bagan FM",
-         "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqwxm_Df9zhS_QNFnnmOjqYyTeiGAeaMS8IQ&usqp=CAU",
-         "url":"http://159.65.15.33:8000/;stream.mp3"
+         "name":"Padamyar FM",
+         "logo":"https://static.tuneyou.com/images/logos/500_500/15/13315/PadamyarFM.jpg",
+         "url":"https://s2.radio.co/s969e6c4b7/listen"
+      },
+      {
+         "id":3,
+         "name":"Thitsarparmi",
+         "logo":"https://www.thitsarparamisociety.com/wp-content/uploads/2015/11/LOGO-copy.png",
+         "url":"http://edge.mixlr.com/channel/nmtev"
+      },{
+         "id":4,
+         "name":"VOB(Rus)",
+         "logo":"https://cdn.raddio.net/storage/photos/260073/877dc817a112737958a17d709a527d45.png",
+         "url":"http://stream0.radiostyle.ru:8000/voiceofburma"
+      },
+      {
+         "id":5,
+         "name":"DWG",
+         "logo":"https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8b/5c/4150/2/c175.png",
+         "url":"http://server32349.streamplus.de/"
       }
+      
+      
 ]
