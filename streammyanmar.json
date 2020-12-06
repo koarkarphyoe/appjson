@@ -5,6 +5,137 @@
          "channel_description":"",
          "channel_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjXbz9_DmZo4Zw_n8vhSQddHe9cGRm9-V6Gg&usqp=CAU",
          "channel_url":"http://203.81.84.130/hls/mwd_variety/index.m3u8"
+      },{
+         "channel_id":1,
+         "channel_name":"Channel 7",
+         "channel_description":"",
+          "channel_logo": "https://cms.dmpcdn.com/livetv/2017/10/18/170cd63c-97a7-4988-90c3-da14cce113c7.png",
+         "channel_url":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Channel K",
+         "channel_description":"",
+         "channel_logo": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-21-04_1.jpeg",
+         "channel_url":"https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Fortune",
+         "channel_description":"",
+         "channel_logo": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-26-55_1.jpeg",
+         "channel_url":"http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/playlist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"MNTV",
+         "channel_description":"",
+             "channel_logo": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-07-56_1.jpeg",
+         "channel_url":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Cookies Asia",
+         "channel_description":"",
+         "channel_logo":"https://i.ytimg.com/an/kJ8NwMbG0gGl3cmk2b6QLQ/featured_channel.jpg?v=5e6083e0",
+         "channel_url":"https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Cookies",
+         "channel_description":"",
+         "channel_logo": "https://i.ytimg.com/an/kJ8NwMbG0gGl3cmk2b6QLQ/featured_channel.jpg?v=5e6083e0",
+         "channel_url":"https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Mahar",
+         "channel_description":"",
+         "channel_logo": "https://i.pinimg.com/originals/13/62/5f/13625f51da021d91fc9e20946a409dc7.png",
+         "channel_url":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+      }, {
+         "channel_id":1,
+         "channel_name":"DVB",
+         "channel_description":"",
+         "channel_logo":"https://pbs.twimg.com/profile_images/454505031073419264/YMZyJFCC_400x400.jpeg",
+         "channel_url":"https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"V2H8",
+         "channel_description":"",
+         "channel_logo":"https://www.mvtv.co.th/wp-content/uploads/2019/01/v2h8.png",
+         "channel_url":"https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Maharbawdi",
+         "channel_description":"",
+         "channel_logo":"https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/340?cb=20191211065314",
+         "channel_url":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+      },
+       {
+         "channel_id":1,
+         "channel_name":"&Flix HD",
+         "channel_description":"",
+         "channel_logo":"https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
+         "channel_url":"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Docurama",
+         "channel_description":"",
+         "channel_logo":"https://thesavvyscreener.com/wp-content/uploads/2016/11/docurama.png",
+         "channel_url":"https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Film Rise Movies",
+         "channel_description":"",
+         "channel_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrPHdNXvZAS5Kk3Ov5VpNSnmmNQVPdMSQPkw&usqp=CAU",
+         "channel_url":"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Hi Yah!",
+         "channel_description":"",
+         "channel_logo":"https://image.xumo.com/v1/channels/channel/9999302/800x800.png?type=smartCast_channelTile",
+         "channel_url":"https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"ZQ TV",
+         "channel_description":"",
+         "channel_logo":"https://upload.wikimedia.org/wikipedia/en/2/28/ZeeQ_Logo_New.jpg",
+         "channel_url":"http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Sports TV1 HD",
+         "channel_description":"",
+         "channel_logo":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe",
+         "channel_url":"https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Sports TV2 HD",
+         "channel_description":"",
+         "channel_logo":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe",
+         "channel_url":"https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Sports TV3 HD",
+         "channel_description":"",
+         "channel_logo":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe",
+         "channel_url":"https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8"
+      },
+      {
+         "channel_id":1,
+         "channel_name":"Sports TV4 HD",
+         "channel_description":"",
+         "channel_logo":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe",
+         "channel_url":"https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8"
       }
 
    ]
