@@ -9,7 +9,7 @@
       {
          "channel_id":1,
          "channel_name":"About",
-         "channel_description":"App Info,Build Verion,Copyright",
+         "channel_description":"App Info,Build Version,Copyright",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/about.png?raw=true",
          "channel_url":""
       },
