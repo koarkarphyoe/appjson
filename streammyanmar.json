@@ -3,22 +3,22 @@
          "channel_id":1,
          "channel_name":"Privacy Policy",
          "channel_description":"",
-         "channel_logo": "humbnail.png",
-         "channel_url":"https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"
+         "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/privacy.png?raw=true",
+         "channel_url":""
       },
       {
          "channel_id":1,
          "channel_name":"",
          "channel_description":"About",
-         "channel_logo": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-26-55_1.jpeg",
-         "channel_url":"http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/playlist.m3u8"
+         "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/about.png?raw=true",
+         "channel_url":""
       },
       {
          "channel_id":1,
          "channel_name":"More Apps",
          "channel_description":"",
-         "channel_logo": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-07-56_1.jpeg",
-         "channel_url":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+         "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/more%20app.png?raw=true",
+         "channel_url":""
       }
    ]
 
