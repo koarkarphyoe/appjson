@@ -4,21 +4,21 @@
          "channel_name":"Privacy Policy",
          "channel_description":"App Terms & Policies",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/privacy.png?raw=true",
-         "channel_url":""
+         "channel_url":"https://raw.githubusercontent.com/koarkarphyoe/Privacy-Policy/main/Privacy%20Policy.txt"
       },
       {
          "channel_id":1,
          "channel_name":"About",
          "channel_description":"App Info,Build Version,Copyright",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/about.png?raw=true",
-         "channel_url":""
+         "channel_url":"https://raw.githubusercontent.com/koarkarphyoe/Privacy-Policy/main/Description"
       },
       {
          "channel_id":1,
          "channel_name":"More Apps",
          "channel_description":"More apps from devloper",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/more%20app.png?raw=true",
-         "channel_url":""
+         "channel_url":"https://play.google.com/store/apps/collection/cluster?clp=igMvChkKEzczNTEyNjEwMDEyMzk2MDI0MjcQCBgDEhAKCnh0di5jb20ubW0QARgDGAE%3D:S:ANO1ljJ6Ptg&gsr=CjKKAy8KGQoTNzM1MTI2MTAwMTIzOTYwMjQyNxAIGAMSEAoKeHR2LmNvbS5tbRABGAMYAQ%3D%3D:S:ANO1ljK7_z4"
       }
    ]
 
