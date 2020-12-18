@@ -4,10 +4,9 @@
          "channel_name":"Privacy Policy",
          "channel_description":"App Terms & Policies",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/privacy.png?raw=true",
-         "channel_url":"       
-* XTV is app that aggregates iptv list from other public accessible sites. 
+         "channel_url":"* XTV is app that aggregates iptv list from other public accessible sites. 
 
-* We check daily our aggregated free iptv list to be sure that all streams are online,or at least note ones that are temporary down. 
+            * We check daily our aggregated free iptv list to be sure that all streams are online,or at least note ones that are temporary down. 
 * XTV gives you the ability to play them directly in app without the hassle of editing list files and understanding the m3u structure.
 
 * Consequently, the app can ask the user to enter personal data such as pictures or birthday.
@@ -25,8 +24,7 @@
          "channel_name":"About",
          "channel_description":"App Info,Build Version,Copyright",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/about.png?raw=true",
-         "channel_url":"
-* You can download XTV App for free and start streaming today with Live TV & Radio
+         "channel_url":"* You can download XTV App for free and start streaming today with Live TV & Radio
 
 * The XTV app is a Free IPTV App for all the stream TV & Radio buffs out there! It offers a one-stop destination to watch free Live TV without downloading, signing up, no credit card required to watch movies online.
 
