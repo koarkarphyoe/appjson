@@ -4,14 +4,23 @@
          "channel_name":"Privacy Policy",
          "channel_description":"App Terms & Policies",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/privacy.png?raw=true",
-         "channel_url":"* MXTV is app that aggregates iptv list from other public accessible sites. 
-* We check daily our aggregated free iptv list to be sure that all streams are online,or at least note ones that are temporary down. 
+         "channel_url":"* MXTV is app that aggregates iptv list from other public accessible sites.
+            
+* We check daily our aggregated free iptv list to be sure that all streams are online,or at least note ones that are temporary down.
+            
 * MXTV gives you the ability to play them directly in app without the hassle of editing list files and understanding the m3u structure.
+            
 * Consequently, the app can ask the user to enter personal data such as pictures or birthday.
+            
 * The app collects the user's position.
+            
 * These personal data are displayed to other users of the app. These data aren't shared with any other entity or third organizations.
+            
 * It's prohibited to publish content for adults only, like images with sexual content or images of extreme violence.
-* We allow third-party companies to serve ads and collect certain anonymous information when you visit our app. These companies may use anonymous information such as your Google Advertising ID, your device type and version, browsing activity, location and other technical data relating to your device, in order to provide advertisements.
+            
+* We allow third-party companies to serve ads and collect certain anonymous information when you visit our app.
+  These companies may use anonymous information such as your Google Advertising ID, your device type and version, browsing activity, location and other technical data relating to your device, in order to provide advertisements.
+            
 * Contact Us
             If you have any questions or suggestions about Privacy Policy, do not hesitate to contact at mmediachannels@gmail.com"
       },
@@ -80,9 +89,9 @@ The TV shows and Radio lines offered by our free MXTV app publicly available on 
          "channel_name":"Copyright",
          "channel_description":"Build Version,Copyright",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/more%20app.png?raw=true",
-         "channel_url":"          MXTV Version 1.0
-                          2020 © MXTV by microcode
-                              All rights reserved"
+         "channel_url":"       MXTV Version 1.0
+                       2020 © MXTV by microcode
+                            All rights reserved"
       }
    ]
 
