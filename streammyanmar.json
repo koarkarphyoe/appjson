@@ -22,7 +22,7 @@
       {
          "channel_id":1,
          "channel_name":"About",
-         "channel_description":"App Info,Build Version,Copyright",
+         "channel_description":"App Info",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/about.png?raw=true",
          "channel_url":"* You can download XTV App for free and start streaming today with Live TV & Radio
 
@@ -81,10 +81,12 @@ The TV shows and Radio lines offered by our free XTV app publicly available on d
       },
       {
          "channel_id":1,
-         "channel_name":"More Apps",
-         "channel_description":"More apps from devloper",
+         "channel_name":"Copyright",
+         "channel_description":"Build Version,Copyright",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/more%20app.png?raw=true",
-         "channel_url":""
+         "channel_url":"          MXTV Version 1.0
+                              2020 © MXTV by microcode
+                                All rights reserved"
       }
    ]
 
