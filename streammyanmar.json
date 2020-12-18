@@ -1,6 +1,6 @@
 [ 
       {
-         "channel_id":1,
+         
          "channel_name":"Privacy Policy",
          "channel_description":"App Terms & Policies",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/privacy.png?raw=true",
@@ -19,11 +19,11 @@
 
 * We allow third-party companies to serve ads and collect certain anonymous information when you visit our app. These companies may use anonymous information such as your Google Advertising ID, your device type and version, browsing activity, location and other technical data relating to your device, in order to provide advertisements."
       
-* Contact us
+* Contact Us
             If you have any questions or suggestions about Privacy Policy,please do not hesitate to contact at mmediachannels@gmail.com
       },
       {
-         "channel_id":1,
+         
          "channel_name":"About",
          "channel_description":"App Info",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/about.png?raw=true",
@@ -83,7 +83,7 @@ MXTV Team
 The TV shows and Radio lines offered by our free MXTV app publicly available on different public platforms like tube tv, 123 movies, Vudu, etc. We neither own this data nor do we host any of the content. We are just providing a way to stream free shows and radio in an organized way, while copyrights remain with their respective owners."
       },
       {
-         "channel_id":1,
+         
          "channel_name":"Copyright",
          "channel_description":"Build Version,Copyright",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/more%20app.png?raw=true",
