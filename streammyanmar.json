@@ -65,7 +65,7 @@ This policy is effective as of 2022-12-18"
       },
       {
          
-         "channel_name":"About",
+         "channel_name":"About App",
          "channel_description":"App Info",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/about.png?raw=true",
          "channel_url":"* You can download MXTV App for free and start streaming today with Live TV & Radio
@@ -128,9 +128,14 @@ The TV shows and Radio lines offered by our free MXTV app publicly available on 
          "channel_name":"Copyright",
          "channel_description":"Build Version,Copyright",
          "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/more%20app.png?raw=true",
-         "channel_url":"                        MXTV Version 1.0
+         "channel_url":"                       MXTV Version 7(1.0)
                2020 © MXTV by microcode
                         All rights reserved"
-      }
+      },{
+         
+         "channel_name":"Contact Us",
+         "channel_description":"Email Address",
+         "channel_logo": "https://github.com/koarkarphyoe/img/blob/main/privacy.png?raw=true",
+         "channel_url":"If you have any questions or suggestions about my Privacy Policy,About MXTV app do not hesitate to contact me at mmediachannels@gmail.com ."
    ]
 
